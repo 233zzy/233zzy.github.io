@@ -1,0 +1,320 @@
+*{
+    padding: 0%;
+    margin: 0%;
+}
+
+h1{
+    font-size: 36px;
+}
+
+h2{
+    font-size: 24px;
+}
+
+h3{
+    font-size: 20px;
+    font-weight: 700;
+}
+
+p{
+    font-size: 16px;
+}
+
+
+
+
+
+header{
+background-color:rgb(0, 0, 0);
+}
+ header h1{
+    color: rgb(255, 255, 255);
+}
+
+
+header a{
+text-decoration: none;
+color: rgb(39, 178, 237);
+
+}
+
+header li {
+    display:inline;
+    margin-right: 6%;
+}
+
+header ul{
+    position: absolute;
+    right: 4vw;
+    top: 0;
+    line-height: 80px;
+}
+
+header a:hover{
+    text-decoration: underline;
+    color: aqua;
+}
+
+
+
+
+section.kais{
+    background-color: bisque;
+    height: 85vh;
+    background-image:url(images/pexels-miracle-61454428-15502937.jpg);
+    background-position:center;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+display: flex;
+flex-direction: column;
+align-items:center;
+justify-content: flex-end;
+}
+
+section.kais h2{
+    color: rgb(250, 17, 168);
+}
+
+section.kais p{
+    color: antiquewhite;
+}
+
+section.rmsg1{
+    background-color:#ede9db;
+}
+
+
+section.rmsg2{
+    background-image: url("images/农民在农田.jpg");
+    background-size: cover;
+    background-position: center;
+
+
+    display: flex;
+   justify-content: space-between;
+   align-items: center;
+   padding: 40px;
+
+}
+
+section.rmsg2 div{
+    width: 300px;
+    text-align: center;
+}
+
+section.rmsg2 img{
+    width: 100%;
+    border-radius: 10px;
+}
+
+section.rmsg2 h3{
+    font-size: 20px;
+    margin: 20px 0;
+    color: rgb(0, 0, 0);
+    background-color: #ede9db;
+}
+
+section.rmsg2 p a{
+color: black;
+text-decoration: none;
+border: 2px solid #4d4949;
+padding: 4px 6px;
+border-radius: 2px;
+background-color: #ede9db;
+}
+
+section.rmsg2 p a:hover{
+    text-decoration: underline;
+    color: aqua;
+}
+
+
+
+section.gzsj1{
+    background-color:#ede9db;
+}
+
+
+section.gzsj2{
+    display: flex;
+    background-image: url(images/具有炼油工业工厂背景的技术员工程师戴安全帽双重暴露.jpg);
+    background-size: cover;
+    background-color:#ede9db;
+   justify-content: space-between;
+   align-items: center;
+   padding: 40px;
+
+}
+
+section.gzsj2 div{
+    width: 300px;
+    text-align: center;
+}
+
+section.gzsj2 img{
+    width: 100%;
+    border-radius: 10px;
+}
+
+section.gzsj2 h3{
+    font-size: 20px;
+    margin: 20px 0;
+    color: rgb(0, 0, 0);
+    background-color: #ede9db;
+}
+
+section.gzsj2 p a{
+color: black;
+text-decoration: none;
+border: 2px solid #4d4949;
+padding: 4px 6px;
+border-radius: 2px;
+background-color: #ede9db;
+}
+
+section.gzsj2 p a:hover{
+    text-decoration: underline;
+    color: aqua;
+}
+
+
+section.jrsh1{
+    background-color:#f9f1d3;
+}
+
+
+section.jsrh2{
+    background-image: url(images/加拿大Peyto湖，白雪皑皑的山脉映衬着天空的景色.jpg);
+    background-size: cover;
+    background-position: center;
+    display: flex;
+   justify-content: space-between;
+   align-items: center;
+   padding: 40px;
+
+}
+
+section.jsrh2 div{
+    width: 300px;
+    text-align: center;
+}
+
+section.jsrh2 img{
+    width: 100%;
+    border-radius: 10px;
+}
+
+section.jsrh2 h3{
+    font-size: 20px;
+    margin: 20px 0;
+    color: rgb(0, 0, 0);
+    background-color: #ede9db;
+}
+
+section.jsrh2 p a{
+color: rgb(0, 0, 0);
+text-decoration: none;
+border: 2px solid #acacac;
+padding: 4px 6px;
+border-radius: 2px;
+background-color: #ede9db;
+}
+
+section.jsrh2 p a:hover{
+    text-decoration: underline;
+    color: aqua;
+}
+
+section.cg1{
+    background-color:#ede9db;
+}
+
+
+section.cg2{
+    background-color: #ff9beb;
+    background-image: url(images/带有木板的现代螺旋楼梯.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    display: flex;
+   justify-content: space-between;
+   align-items: center;
+   padding: 40px;
+
+}
+
+section.cg2 div{
+    width: 300px;
+    text-align: center;
+}
+
+section.cg2 img{
+    width: 100%;
+    border-radius: 10px;
+}
+
+section.cg2 h3{
+    font-size: 20px;
+    margin: 20px 0;
+    color: rgb(0, 0, 0);
+    background-color: #ede9db;
+}
+
+section.cg2 p a{
+color: rgb(0, 0, 0);
+text-decoration: none;
+border: 2px solid #ACACAC;
+padding: 4px 6px;
+border-radius: 2px;
+background-color: #ede9db;
+}
+
+section.cg2 p a:hover{
+    text-decoration: underline;
+    color: aqua;
+}
+
+
+section.jtfx1{
+    background-color:#ede9db;
+}
+
+section.jtfx2{
+    background-color: #485652;
+    display: flex;
+   justify-content: space-between;
+   align-items: center;
+   padding: 40px;
+
+}
+
+section.jtfx2 div{
+    width: 300px;
+    text-align: center;
+}
+
+section.jtfx2 img{
+    width: 100%;
+    border-radius: 10px;
+}
+
+section.jtfx2 h3{
+    font-size: 20px;
+    margin: 20px 0;
+    color: rgb(255, 255, 255);
+}
+
+section.jtfx2 p a{
+color: rgb(0, 0, 0);
+text-decoration: none;
+border: 2px solid #acacac;
+padding: 4px 6px;
+border-radius: 2px;
+background-color: #ede9db;
+}
+
+section.jtfx2 p a:hover{
+    text-decoration: underline;
+    color: aqua;
+}
