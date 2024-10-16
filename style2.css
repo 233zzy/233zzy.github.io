@@ -1,0 +1,245 @@
+*{
+    padding: 0%;
+    margin: 0%;
+   
+}
+
+
+
+section.mulu{
+    display: flex;
+    flex-direction: column;
+    align-items:center;
+    justify-content: flex-end;
+    background-color: #485652;
+    color: rgb(255, 0, 0);
+}
+
+h1{
+    background-color: beige;
+}
+
+p a{
+    background-color: bisque;
+}
+
+h2{
+    background-color: #485652;
+    color: aliceblue;
+}
+
+
+
+section.fddbg1{
+    background-color: bisque;
+    display: flex;
+   justify-content: space-between;
+   align-items: center;
+   padding: 40px;
+
+}
+
+section.fddbg1 div{
+    width: 300px;
+    text-align: center;
+}
+
+section.fddbg1 h3{
+    font-size: 20px;
+    margin: 20px 0;
+    color: rgb(0, 0, 0);
+    background-color: bisque;
+}
+
+section.hnnm2{
+    background-color: bisque;
+    display: flex;
+   justify-content: space-between;
+   align-items: center;
+   padding: 40px;
+
+}
+
+section.hnnm2 div{
+    width: 300px;
+    text-align: center;
+}
+
+section.hnnm2 h3{
+    font-size: 20px;
+    margin: 20px 0;
+    color: rgb(0, 0, 0);
+    background-color: bisque;
+}
+
+section.jzdn3{
+    background-color: bisque;
+    display: flex;
+   justify-content: space-between;
+   align-items: center;
+   padding: 10px;
+
+}
+
+section.jzdn3 div{
+    width: 300px;
+    text-align: center;
+}
+
+section.jzdn3 h5{
+    font-size: 20px;
+    margin: 20px 0;
+    color: rgb(0, 0, 0);
+    background-color: bisque;
+}
+
+section.xxzh4{
+    background-color: bisque;
+    display: flex;
+   justify-content: space-between;
+   align-items: center;
+   padding: 40px;
+
+}
+
+section.xxzh4 div{
+    width: 300px;
+    text-align: center;
+}
+
+section.xxzh4 h3{
+    font-size: 20px;
+    margin: 20px 0;
+    color: rgb(0, 0, 0);
+    background-color: bisque;
+}
+
+section.bbzy5{
+    background-color: bisque;
+    display: flex;
+   justify-content: space-between;
+   align-items: center;
+   padding: 40px;
+
+}
+
+section.bbzy5 div{
+    width: 300px;
+    text-align: center;
+}
+
+section.bbzy5 h3{
+    font-size: 20px;
+    margin: 20px 0;
+    color: rgb(0, 0, 0);
+    background-color: bisque;
+}
+
+section.gxqz6{
+    background-color: bisque;
+    display: flex;
+   justify-content: space-between;
+   align-items: center;
+   padding: 40px;
+
+}
+
+section.gxqz6 div{
+    width: 300px;
+    text-align: center;
+}
+
+section.gxqz6 h3{
+    font-size: 20px;
+    margin: 20px 0;
+    color: rgb(0, 0, 0);
+    background-color: bisque;
+}
+section.lfd7{
+    background-color: bisque;
+    display: flex;
+   justify-content: space-between;
+   align-items: center;
+   padding: 40px;
+
+}
+
+section.lfd7 div{
+    width: 300px;
+    text-align: center;
+}
+
+section.lfd7 h3{
+    font-size: 20px;
+    margin: 20px 0;
+    color: rgb(0, 0, 0);
+    background-color: bisque;
+}
+section.zggm8{
+    background-color: bisque;
+    display: flex;
+   justify-content: space-between;
+   align-items: center;
+   padding: 40px;
+
+}
+
+section.zggm8 div{
+    width: 300px;
+    text-align: center;
+}
+
+section.zggm8 h3{
+    font-size: 20px;
+    margin: 20px 0;
+    color: rgb(0, 0, 0);
+    background-color: bisque;
+}
+section.lcjz9{
+    background-color: bisque;
+    display: flex;
+   justify-content: space-between;
+   align-items: center;
+   padding: 40px;
+
+}
+
+section.lcjz9 div{
+    width: 300px;
+    text-align: center;
+}
+
+section.lcjz9 h3{
+    font-size: 20px;
+    margin: 20px 0;
+    color: rgb(0, 0, 0);
+    background-color: bisque;
+}
+section.llhzf10{
+    background-color: bisque;
+    display: flex;
+   justify-content: space-between;
+   align-items: center;
+   padding: 40px;
+
+}
+
+section.llhzf10 div{
+    width: 300px;
+    text-align: center;
+}
+
+section.llhzf10 h3{
+    font-size: 20px;
+    margin: 20px 0;
+    color: rgb(0, 0, 0);
+    background-color: bisque;
+}
+header{
+    background-color: bisque;
+}
+
+header h2{
+    background-color: bisque;
+    color: black;
+}

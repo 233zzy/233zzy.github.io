@@ -1,0 +1,21 @@
+*{
+    background-color:#485652 ;
+    color: rgb(211, 226, 240);
+}
+
+h1{
+    font-size: 36px;
+}
+
+h2{
+    font-size: 24px;
+}
+
+h3{
+    font-size: 20px;
+    font-weight: 700;
+}
+
+p{
+    font-size: 16px;
+}
